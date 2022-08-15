@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of ethan
+用于记录和学习
 
 You can use the [editor on GitHub](https://github.com/zyx333/ethanZhang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
